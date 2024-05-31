@@ -1,0 +1,6 @@
+{
+    "_BankAccount__owner": "John Doe",
+    "_BankAccount__balance": 1000,
+    "_BankAccount__account_number": "12345",
+    "__class__": "BankAccount"
+}
